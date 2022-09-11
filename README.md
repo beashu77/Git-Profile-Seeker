@@ -1,4 +1,4 @@
-### GitHub profile seeker
+# GitHub profile seeker
 
  GitHub profile seeker was a mini project . In which user can toggle the theme and search for different GitHub users and their information.
 
